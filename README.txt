@@ -1,4 +1,4 @@
-Bootstrap landing page for personal and commercial use. Designed with ♥️ and creativity. 
+ Designed with ♥️ and creativity. 
 
 Product Page: https://nawarajthapamagar.com.np/
 
